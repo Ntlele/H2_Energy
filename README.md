@@ -22,6 +22,6 @@ In this project we will build an automated Hydrogen generator that will extract 
 
 <h4>The generator is an autonomous machine. This means that ones installed and in operation process, in proceeds operating on its own.</h4>
 
-<p>This is made possible by installing a micro controller chip like Raspberry Pi etc, to control every function of the generator. Programming language that will be used is <b>python</b> and c++.</p>
+<p>This is made possible by installing a micro controller chip like Raspberry Pi etc, to control every function of the generator. Programming language that will be used is <b>python</b> and <b style="color: red">c++</b>.</p>
 
 <h2 style="text-align: center">...Still in working process...</h2>
